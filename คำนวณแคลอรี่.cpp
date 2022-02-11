@@ -47,3 +47,4 @@ int main()
     if (total < 0)      cout << "Eat more than burn." << total * (-1) << " cal.";
     else if (total >0)  cout << "Eat more than burn." << total << " cal.";
     else                cout << "Eat equal to burn.";
+}
